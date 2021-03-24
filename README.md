@@ -1,6 +1,6 @@
 # Repositories
 ## OSGI
- - https://github.com/robertsi/angular7-karaf-skeleton
+ - [angular7-karaf-skeleton](https://github.com/robertsi/angular7-karaf-skeleton)
 # Forks
 ## [x64dbg](https://github.com/x64dbg/x64dbg)
 - [x64dbg](https://github.com/robertsi/x64dbg)
