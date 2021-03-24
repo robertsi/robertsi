@@ -5,6 +5,8 @@
 ### [x64dbg](https://github.com/x64dbg/x64dbg)
 
 - [x64dbg](https://github.com/robertsi/x64dbg)
+- [x64dbgpy](https://github.com/robertsi/x64dbgpy)
+- [PyQt5](https://github.com/robertsi/PyQt5)
 
 <!--
 **robertsi/robertsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
